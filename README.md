@@ -111,7 +111,7 @@ Before running the automated tests, you must have the Bookstore API application 
     ```bash
     uvicorn main:app --reload
     ```
-    The API will now be available at `http://127.0.0.1:8000`. Keep this terminal running.
+    The API will now be available at `http://127.0.0.1:8000` or `http://127.0.0.1:8000/docs#` Keep this terminal running.
 
 #### **Option B: Running with Docker**
 
